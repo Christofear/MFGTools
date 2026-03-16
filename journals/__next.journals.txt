@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
-2:I[39664,["/MFGTools-com/_next/static/chunks/991ffba028c1197a.js","/MFGTools-com/_next/static/chunks/9a9c62a17957fe9e.js"],"default"]
-3:I[1212,["/MFGTools-com/_next/static/chunks/991ffba028c1197a.js","/MFGTools-com/_next/static/chunks/9a9c62a17957fe9e.js"],"default"]
-0:{"buildId":"RoQlaaXlTzeiP7iNiMYni","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+2:I[39664,["/_next/static/chunks/991ffba028c1197a.js","/_next/static/chunks/9a9c62a17957fe9e.js"],"default"]
+3:I[1212,["/_next/static/chunks/991ffba028c1197a.js","/_next/static/chunks/9a9c62a17957fe9e.js"],"default"]
+0:{"buildId":"qsxsuIlMLuXV3jjdy9YU2","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
